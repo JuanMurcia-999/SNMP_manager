@@ -1,0 +1,12 @@
+.env
+
+archivo.txt
+GestorDB.sqlite
+
+
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+.pytest_cache
